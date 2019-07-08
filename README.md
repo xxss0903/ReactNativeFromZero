@@ -1,2 +1,30 @@
-# ReactNativeFromZero
-React native exercise from zero to a full app.
+# 从零开始写一个React Native 的APP
+
+## ReactNative基本概念
+
+#### Component
+
+#### node_modules
+
+## 网络相关
+
+#### 网络请求封装
+ 
+#### 网络添加全局监听
+
+#### 异常处理
+
+## 基础控件
+
+## 面向对象开发
+
+## 第三方模块
+
+#### 个推
+
+## 安卓版本异常处理
+
+#### 常见编译错误
+
+###
+ 
