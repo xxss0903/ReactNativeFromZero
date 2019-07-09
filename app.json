@@ -1,0 +1,7 @@
+{
+  "name": "RnNavigateDemo",
+  "displayName": "RnNavigateDemo",
+  "expo": {
+    "scheme": "mychat"
+  }
+}
